@@ -5,7 +5,7 @@ School 42 Project. Set up a small infrastructure composed of WordPress with LEMP
 
 # Final grade: 100/100
 
-<img src="./score.png" height="125" alt="Score"> <br></br>
+<img src="./examples/score.png" height="125" alt="Score"> <br></br>
 
 ## Docker containers
 
